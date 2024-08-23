@@ -1,0 +1,389 @@
+/* Estilos Generales */
+body {
+    font-family: 'Times New Roman', Times, serif;
+    margin: 0;
+    padding: 0;
+    color: #333;
+    background-color: #e8f5e9; /* Verde pálido para el fondo de la página */
+}
+
+header {
+    background-color: #004d40; /* Verde oscuro */
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+    border-bottom: 5px solid #00796b; /* Línea verde más clara en la parte inferior */
+}
+
+header h1 {
+    margin: 0;
+    font-size: 2.5em;
+    letter-spacing: 1px;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 10px 0 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 1.1em;
+    transition: color 0.3s ease, border-bottom 0.3s ease;
+    border-bottom: 2px solid transparent; /* Línea inferior animada */
+}
+
+nav ul li a:hover {
+    color: #80cbc4; /* Verde claro */
+    border-bottom: 2px solid #80cbc4;
+}
+
+main {
+    padding: 20px;
+    max-width: 900px;
+    margin: 20px auto;
+}
+
+article {
+    background: #fff;
+    border-radius: 10px;
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
+    padding: 20px;
+    margin-bottom: 20px;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+article:hover {
+    transform: translateY(-5px); /* Efecto de elevación al pasar el ratón */
+    box-shadow: 0 12px 24px rgba(0, 0, 0, 0.2);
+}
+
+article h2 {
+    margin-top: 0;
+    font-size: 2em;
+    color: #004d40; /* Verde oscuro */
+}
+
+article h2 a {
+    color: #004d40;
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+article h2 a:hover {
+    color: #00796b; /* Verde más claro */
+}
+
+article p {
+    margin: 10px 0;
+    line-height: 1.6;
+}
+
+footer {
+    background-color: #004d40; /* Verde oscuro */
+    color: #fff;
+    text-align: center;
+    padding: 15px;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    margin-top: 20px;
+    border-top: 5px solid #00796b; /* Línea verde más clara en la parte superior */
+}
+
+footer p {
+    margin: 0;
+    font-size: 0.9em;
+}
+
+/* Estilos Generales */
+body {
+    font-family: 'Times New Roman', Times, serif;
+    margin: 0;
+    padding: 0;
+    color: #333;
+    background-color: #e8f5e9; /* Verde pálido para el fondo de la página */
+}
+
+header {
+    background-color: #004d40; /* Verde oscuro */
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+    border-bottom: 5px solid #00796b; /* Línea verde más clara en la parte inferior */
+}
+
+header h1 {
+    margin: 0;
+    font-size: 2.5em;
+    letter-spacing: 1px;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 10px 0 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 1.1em;
+    transition: color 0.3s ease, border-bottom 0.3s ease;
+    border-bottom: 2px solid transparent; /* Línea inferior animada */
+}
+
+nav ul li a:hover {
+    color: #80cbc4; /* Verde claro */
+    border-bottom: 2px solid #80cbc4;
+}
+
+main {
+    padding: 20px;
+    max-width: 900px;
+    margin: 20px auto;
+}
+
+article {
+    background: #fff;
+    border-radius: 10px;
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
+    padding: 20px;
+    margin-bottom: 20px;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+article:hover {
+    transform: translateY(-5px); /* Efecto de elevación al pasar el ratón */
+    box-shadow: 0 12px 24px rgba(0, 0, 0, 0.2);
+}
+
+article h2 {
+    margin-top: 0;
+    font-size: 2em;
+    color: #004d40; /* Verde oscuro */
+}
+
+article h2 a {
+    color: #004d40;
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+article h2 a:hover {
+    color: #00796b; /* Verde más claro */
+}
+
+article p {
+    margin: 10px 0;
+    line-height: 1.6;
+}
+
+footer {
+    background-color: #004d40; /* Verde oscuro */
+    color: #fff;
+    text-align: center;
+    padding: 15px;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    margin-top: 20px;
+    border-top: 5px solid #00796b; /* Línea verde más clara en la parte superior */
+}
+
+footer p {
+    margin: 0;
+    font-size: 0.9em;
+}
+
+/* Estilos Generales */
+body {
+    font-family: 'Times New Roman', Times, serif;
+    margin: 0;
+    padding: 0;
+    color: #333;
+    background-color: #e8f5e9; /* Verde pálido para el fondo de la página */
+}
+
+header {
+    background-color: #004d40; /* Verde oscuro */
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+    border-bottom: 5px solid #00796b; /* Línea verde más clara en la parte inferior */
+}
+
+header h1 {
+    margin: 0;
+    font-size: 2.5em;
+    letter-spacing: 1px;
+
+}
+
+.pregunta {
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    color: #00796b;
+    font-weight: bold;
+}
+
+.title3 {
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    color: #004d40;
+    font-weight: bold;
+}
+
+.titulo2 {
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    color: #00796b;
+    font-weight: bold;
+}
+
+.text{
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.imagen-flotante {
+    float: left;
+    margin-right: 15px;
+    width: 300px;
+}
+ 
+.imagen-flotante2 {
+    float: right;
+    margin-left: 15px;
+    width: 280px;
+}
+
+.imagen-flotante3{
+    float: right;
+    margin-left: 20px;
+    width: 400px;
+}
+
+.pregunta2 {
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    color: #00796b;
+    font-weight: bold;
+}
+
+.title {
+    font-size: 20px;
+    color: #004d40;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
+.ola{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 18px;
+}
+.texto{
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.text2{
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 10px 0 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 1.1em;
+    transition: color 0.3s ease, border-bottom 0.3s ease;
+    border-bottom: 2px solid transparent; /* Línea inferior animada */
+}
+
+nav ul li a:hover {
+    color: #80cbc4; /* Verde claro */
+    border-bottom: 2px solid #80cbc4;
+}
+
+main {
+    padding: 20px;
+    max-width: 900px;
+    margin: 20px auto;
+}
+
+article {
+    background: #fff;
+    border-radius: 10px;
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
+    padding: 20px;
+    margin-bottom: 20px;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+article:hover {
+    transform: translateY(-5px); /* Efecto de elevación al pasar el ratón */
+    box-shadow: 0 12px 24px rgba(0, 0, 0, 0.2);
+}
+
+article h2 {
+    margin-top: 0;
+    font-size: 2em;
+    color: #004d40; /* Verde oscuro */
+}
+
+article h2 a {
+    color: #004d40;
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+article h2 a:hover {
+    color: #00796b; /* Verde más claro */
+}
+
+article p {
+    margin: 10px 0;
+    line-height: 1.6;
+}
+
+footer {
+    background-color: #004d40; /* Verde oscuro */
+    color: #fff;
+    text-align: center;
+    padding: 15px;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    margin-top: 20px;
+    border-top: 5px solid #00796b; /* Línea verde más clara en la parte superior */
+}
+
+footer p {
+    margin: 0;
+    font-size: 0.9em;
+}
+
+
+
+
